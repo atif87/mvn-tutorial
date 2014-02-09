@@ -1,5 +1,10 @@
 package learn.restexpress;
 
+import com.strategicgains.restexpress.RestExpress;
+import org.jboss.netty.handler.codec.http.HttpMethod;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 /**
  * Created by atif on 08/02/14.
  */
@@ -12,10 +17,13 @@ public class Hello {
                 .setIoThreadCount(10);
 
 
+
         HelloController controller = new HelloController();
-        server.uri("/hello", controller)
-        .action("sayHello", HttpMethod.GET);
+        server.uri("/hello", controller).action("sayHello", HttpMethod.GET);
+        server.uri("/test", controller).action("sayHello", HttpMethod.GET);
+        server.uri("/create-user", controller).action("createUser", HttpMethod.GET);
         server.bind();
+
 
     }
 }

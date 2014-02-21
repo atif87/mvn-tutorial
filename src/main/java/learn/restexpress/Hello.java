@@ -22,6 +22,7 @@ public class Hello {
         server.uri("/hello", controller).action("sayHello", HttpMethod.GET);
         server.uri("/test", controller).action("sayHello", HttpMethod.GET);
         server.uri("/create-user", controller).action("createUser", HttpMethod.GET);
+        server.uri("/file-upload", controller).action("fileUploader", HttpMethod.POST);
         server.bind();
 
 

@@ -47,5 +47,22 @@ public class HelloController {
         }
 
     }
+    public void fileUploader(Request request, Response response) throws IOException
+    {
+
+        //response.addHeader("X-Client-ID", "xyz345");
+        //System.out.print(response.getHeaderNames());
+        //System.out.print(request.getHeader("test"));
+
+        System.out.print(request.getHeader("name"));
+        System.out.print("\n");
+        System.out.print(request.getHeader("filedata"));
+        System.out.print("\n");
+        //response.setBody("Hello " + request.getQueryStringMap());
+        //System.out.print(response.getContentType());
+        //response.setBody("Hello "+request.getHeader("name"));
+        //response.setResponseStatus(HttpResponseStatus.OK);
+        //System.out.println("atif iqbal");
+    }
 }
 

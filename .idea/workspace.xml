@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59db9814-c47a-4b63-978b-3231859f9e81" name="Default" comment="trying to add mysql jar">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.29-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_strategicgains_DateAdapterJ_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_strategicgains_RestExpress_0_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_strategicgains_RestExpress_Common_0_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_6_6_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
+    <list default="true" id="59db9814-c47a-4b63-978b-3231859f9e81" name="Default" comment="trying to add mysql jar&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/learn/restexpress/HelloController.java" afterPath="$PROJECT_DIR$/src/main/java/learn/restexpress/HelloController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-restexpress.iml" afterPath="$PROJECT_DIR$/learn-restexpress.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learn-restexpress.iws" />
@@ -86,7 +74,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="690">
+            <state line="23" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="840">
               <folding />
             </state>
           </provider>
@@ -104,13 +92,12 @@
       <file leaf-file-name="HelloController.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="34" selection-start="994" selection-end="994" vertical-scroll-proportion="0.6666667" vertical-offset="132" max-vertical-offset="855">
+            <state line="42" column="16" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.3487395" vertical-offset="464" max-vertical-offset="1110">
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1391933200000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
-                <marker date="1391933200000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
-                <marker date="1391933200000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
-                <marker date="1391933200000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+                <marker date="1392840246000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
+                <marker date="1392840246000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+                <marker date="1392840246000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
               </folding>
             </state>
           </provider>
@@ -119,10 +106,8 @@
       <file leaf-file-name="Hello.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="65" selection-start="794" selection-end="804" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="24" column="85" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="555">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,7 +142,7 @@
     <option name="x" value="20" />
     <option name="y" value="22" />
     <option name="width" value="1400" />
-    <option name="height" value="820" />
+    <option name="height" value="818" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -239,8 +224,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,13 +236,21 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistory" value="" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="learn-restexpress" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-5.1.29/mysql-connector-java-5.1.29-bin.jar!/" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -535,22 +528,33 @@
       <created>1391847805258</created>
       <updated>1391847805258</updated>
       <workItem from="1391847806545" duration="3487000" />
-      <workItem from="1391852406448" duration="7202000" />
+      <workItem from="1391852406448" duration="9872000" />
+      <workItem from="1392537737404" duration="1666000" />
+      <workItem from="1392567370565" duration="873000" />
+      <workItem from="1392835329634" duration="4575000" />
+      <workItem from="1392972640174" duration="123000" />
+      <workItem from="1392979496513" duration="445000" />
+      <workItem from="1392999228418" duration="107000" />
     </task>
+    <task id="LOCAL-00001" summary="trying to add mysql jar">
+      <created>1391942889330</created>
+      <updated>1391942889330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10689000" />
+    <option name="totallyTimeSpent" value="21148000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="22" width="1400" height="820" extended-state="0" />
+    <frame x="20" y="22" width="1400" height="818" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288948" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -559,14 +563,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32756326" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756326" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756326" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3271028" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -599,6 +603,204 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="32" selection-start="1926" selection-end="1926" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1110">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1392840246000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="85" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="32" selection-start="1926" selection-end="1926" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1110">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1392840246000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="85" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="32" selection-start="1926" selection-end="1926" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1110">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1392840246000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="85" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="8" selection-start="1992" selection-end="1992" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="990">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1392840246000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="32" selection-start="845" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="43" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="960">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1392840246000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="32" selection-start="845" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="11" selection-start="901" selection-end="901" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="855">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1392840246000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="65" selection-start="794" selection-end="804" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="18" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="615">
           <folding />
         </state>
@@ -616,10 +818,9 @@
         <state line="18" column="61" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="435">
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1391933200000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
-            <marker date="1391933200000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
-            <marker date="1391933200000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
-            <marker date="1391933200000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -627,9 +828,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="22" selection-start="707" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="525">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -647,24 +846,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/strategicgains/RestExpress/0.9.4/RestExpress-0.9.4.jar!/com/strategicgains/restexpress/Request.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="39" selection-start="119" selection-end="158" vertical-scroll-proportion="0.10273973" vertical-offset="0" max-vertical-offset="2130" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="65" selection-start="794" selection-end="804" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="24" column="85" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/learn/restexpress/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="34" selection-start="994" selection-end="994" vertical-scroll-proportion="0.6666667" vertical-offset="132" max-vertical-offset="855">
+        <state line="42" column="16" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.3487395" vertical-offset="464" max-vertical-offset="1110">
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1391933200000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
-            <marker date="1391933200000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
-            <marker date="1391933200000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
-            <marker date="1391933200000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1454" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1452" placeholder="insert into ..." />
+            <marker date="1392840246000" expanded="true" signature="1370:1463" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -721,10 +922,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>learn-restexpress</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -744,6 +947,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: ch.qos.logback:logback-core:1.0.10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
